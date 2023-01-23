@@ -1,0 +1,16 @@
+body {
+    background-color: hsl(39, 100%, 60%);
+    
+}
+
+.white {
+    color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    
+}
